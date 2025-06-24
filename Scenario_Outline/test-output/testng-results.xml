@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-23T15:50:06 IST" name="Default suite" finished-at="2025-06-23T15:50:52 IST" duration-ms="46879">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1c1bbc4e]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-06-23T15:50:06 IST" name="Default test" finished-at="2025-06-23T15:50:52 IST" duration-ms="46879">
+      <class name="runner.TestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.TestRunner@1c1bbc4e]" started-at="2025-06-23T15:50:06 IST" name="setUpClass" finished-at="2025-06-23T15:50:06 IST" duration-ms="280" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@ca30bc1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1c1bbc4e]" started-at="2025-06-23T15:50:06 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-06-23T15:50:52 IST" duration-ms="46122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC002_add Job Record_creating Job Record"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["I am automating Orange Hrm Application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1c1bbc4e]" started-at="2025-06-23T15:50:06 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-06-23T15:50:45 IST" duration-ms="39425" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC002_add Job Record_creating Job Record"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["I am automating Orange Hrm Application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1c1bbc4e]" started-at="2025-06-23T15:50:06 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-06-23T15:50:52 IST" duration-ms="46385" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC002_add Job Record_creating Job Record"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["I am automating Orange Hrm Application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1c1bbc4e]" started-at="2025-06-23T15:50:06 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-06-23T15:50:51 IST" duration-ms="44990" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC002_add Job Record_creating Job Record"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["I am automating Orange Hrm Application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@1c1bbc4e]" started-at="2025-06-23T15:50:06 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-06-23T15:50:50 IST" duration-ms="44647" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["TC002_add Job Record_creating Job Record"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["I am automating Orange Hrm Application"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.TestRunner@1c1bbc4e]" started-at="2025-06-23T15:50:52 IST" name="tearDownClass" finished-at="2025-06-23T15:50:52 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
